@@ -32,7 +32,7 @@ public class Constants
     public const byte Tilde = 0x7E;                 // ~
     
     /// <summary>
-    /// Please see 4.42 for list of space caracters
+    /// Please see 4.42 for list of space characters
     /// </summary>
     public readonly char[] SpaceCharacters = [ (char)0x09, (char)0x0A, (char)0x0B, (char)0x0C, (char)0x0D,
     (char)0x20, (char)0xA0, (char)0x2002, (char)0x2003, (char)0x2007, (char)0x2008, (char)0x2009,
